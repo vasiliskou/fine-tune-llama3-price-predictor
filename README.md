@@ -18,21 +18,21 @@ A Gradio-based web interface allows users to input product descriptions and rece
 ## 📁 Notebooks Overview – Quick Access via Google Colab
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TtIZ7WUPE0M7cel3mSAyBRXacZowdzNv?usp=sharing) **Create Dataset.ipynb** – Load, preprocess, and format Amazon Electronics data for training.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TtIZ7WUPE0M7cel3mSAyBRXacZowdzNv?usp=sharing) **1) Create Dataset.ipynb** – Load, preprocess, and format Amazon Electronics data for training.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vJBtYkv6UhJx281xCrUiivI3J_Oo8104?usp=sharing) **Fine-tune LLaMA 3.1–8B.ipynb** – Fine-tune using QLoRA on 100k curated examples.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vJBtYkv6UhJx281xCrUiivI3J_Oo8104?usp=sharing) **2) Fine-tune LLaMA 3.1–8B.ipynb** – Fine-tune using QLoRA on 100k curated examples.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CFUADSzG5oCgfhnyOfTqKy2se2v3p01p?usp=sharing) **Test Baseline Models.ipynb** – Compare with traditional regressors.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CFUADSzG5oCgfhnyOfTqKy2se2v3p01p?usp=sharing) **3) Test Baseline Models.ipynb** – Compare with traditional regressors.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YacTU3blaUj2kOedH7CFm2N6W-YfCCr1?usp=sharing) **Test Frontier Models.ipynb** – Evaluate GPT-4o, Gemini, Claude, DeepSeek.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YacTU3blaUj2kOedH7CFm2N6W-YfCCr1?usp=sharing) **4) Test Frontier Models.ipynb** – Evaluate GPT-4o, Gemini, Claude, DeepSeek.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CXUxE8r0iWxz8OPHEClFINkiWVvG9rTf?usp=sharing) **Test LLaMA 3.1 Base.ipynb** – Evaluate pre-trained model performance.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CXUxE8r0iWxz8OPHEClFINkiWVvG9rTf?usp=sharing) **5) Test LLaMA 3.1 Base.ipynb** – Evaluate pre-trained model performance.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JuNeTv1bsesFDiF7ilmsd5BJsNbg9ZiT?usp=sharing) **Test LLaMA 3.1 Fine-Tuned.ipynb** – Evaluate the fine-tuned model.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JuNeTv1bsesFDiF7ilmsd5BJsNbg9ZiT?usp=sharing) **6) Test LLaMA 3.1 Fine-Tuned.ipynb** – Evaluate the fine-tuned model.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M7WxpPYEMOkmEvdcEmkGIBDXBDeGADam?usp=sharing) **Deploy to Modal.ipynb** – Package and deploy the model via Modal cloud.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M7WxpPYEMOkmEvdcEmkGIBDXBDeGADam?usp=sharing) **7) Deploy to Modal.ipynb** – Package and deploy the model via Modal cloud.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SpB-7PHiUQD--n3dzfRvYbkt_nOl9J-O?usp=sharing) **Run Gradio App.ipynb** – Build and launch interactive UI.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SpB-7PHiUQD--n3dzfRvYbkt_nOl9J-O?usp=sharing) **8) Run Gradio App.ipynb** – Build and launch interactive UI.
 
 
 ---
